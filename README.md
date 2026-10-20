@@ -145,6 +145,11 @@ ScopeLock — Fix what is broken. Preserve what works.
 
 ---
 
-Copy paste to agent ai
 
-```bash npx skills add zaaneecodingmulu/ScopeLock```
+## Installation
+
+Jalankan perintah berikut:
+
+```bash
+npx skills add zaaneecodingmulu/ScopeLock
+```
