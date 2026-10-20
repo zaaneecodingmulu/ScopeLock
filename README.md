@@ -146,4 +146,5 @@ ScopeLock — Fix what is broken. Preserve what works.
 ---
 
 Copy paste to agent ai
-```npx skills add zaaneecodingmulu/ScopeLock```
+
+```bash npx skills add zaaneecodingmulu/ScopeLock```
